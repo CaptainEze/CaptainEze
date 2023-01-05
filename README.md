@@ -5,7 +5,7 @@
 - 🌟🌟 I also sell computers/laptops for companies,offices or even homes.
 - I perform software installations of any kind. 
 - 🌱 I’m currently learning Robotics and Hardware programming 
-     You can contact me on WhatsApp for computer maintenance jobs :https://wa.me/message/QJ5ZKCVMXHDMD1
+     You can contact me on WhatsApp for front End development : +2348118284107
 
 <!---
 CaptainEze/CaptainEze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
